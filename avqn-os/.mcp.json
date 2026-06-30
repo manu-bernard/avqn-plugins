@@ -1,5 +1,8 @@
 {
   "mcpServers": {
-    "avqn-os": { "type": "http", "url": "https://os.avqn.ch/mcp" }
+    "avqn-os": {
+      "type": "http",
+      "url": "https://os.avqn.ch/mcp"
+    }
   }
 }

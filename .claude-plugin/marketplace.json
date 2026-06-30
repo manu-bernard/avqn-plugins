@@ -1,6 +1,8 @@
 {
   "name": "avqn",
-  "owner": { "name": "Manu Bernard" },
+  "owner": {
+    "name": "Manu Bernard"
+  },
   "description": "Marketplace des plugins publics AVQN.",
   "version": "0.1.0",
   "plugins": [
