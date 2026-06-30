@@ -1,0 +1,6 @@
+{
+  "name": "avqn-os",
+  "description": "Écosystème AVQN OS : le connecteur MCP os.avqn.ch (CRM, temps, agenda, mémoire, carnet, pilotage…) + les skills AVQN.",
+  "author": { "name": "Manu Bernard" },
+  "license": "UNLICENSED"
+}

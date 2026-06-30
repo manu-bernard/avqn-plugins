@@ -1,0 +1,13 @@
+{
+  "name": "avqn",
+  "owner": { "name": "Manu Bernard" },
+  "description": "Marketplace des plugins publics AVQN.",
+  "version": "0.1.0",
+  "plugins": [
+    {
+      "name": "avqn-os",
+      "source": "./avqn-os",
+      "description": "AVQN OS — le connecteur MCP (os.avqn.ch) + ses skills."
+    }
+  ]
+}
