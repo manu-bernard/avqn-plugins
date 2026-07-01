@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "avqn-infra": {
+      "type": "http",
+      "url": "https://infra.avqn.ch/mcp"
+    }
+  }
+}

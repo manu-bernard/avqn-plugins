@@ -1,0 +1,8 @@
+{
+  "name": "avqn-infra",
+  "description": "AVQN Infra — le connecteur MCP de l’OS infra/dev (infra.avqn.ch) : Coolify, Hetzner, DNS, R2, SSH, backup, monitoring, release et cycle de vie des dépôts GitHub.",
+  "author": {
+    "name": "Manu Bernard"
+  },
+  "license": "UNLICENSED"
+}

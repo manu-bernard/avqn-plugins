@@ -3,13 +3,31 @@
   "owner": {
     "name": "Manu Bernard"
   },
-  "description": "Marketplace des plugins publics AVQN.",
-  "version": "0.1.0",
+  "description": "Marketplace unique AVQN : méthodo de dev, connecteurs MCP (business + infra/dev) et outillage.",
+  "version": "0.2.0",
   "plugins": [
+    {
+      "name": "avqn-dev",
+      "source": {
+        "source": "github",
+        "repo": "manu-bernard/avqn-dev"
+      },
+      "description": "Méthodo de dev continu AVQN (brainstorm-issue, dev, apercu + superpowers). Scope user."
+    },
     {
       "name": "avqn-os",
       "source": "./avqn-os",
-      "description": "AVQN OS — le connecteur MCP (os.avqn.ch) + ses skills."
+      "description": "AVQN OS — le connecteur MCP business (os.avqn.ch) + ses skills."
+    },
+    {
+      "name": "avqn-infra",
+      "source": "./avqn-infra",
+      "description": "AVQN Infra — le connecteur MCP infra/dev (infra.avqn.ch) : Coolify, Hetzner, DNS, R2, SSH, backup, monitoring, release, dépôts."
+    },
+    {
+      "name": "avqn-tooling",
+      "source": "./avqn-tooling",
+      "description": "Outillage de dev : embarque le MCP Playwright (qualité visuelle). Pour l’env de dev cloud."
     }
   ]
 }
