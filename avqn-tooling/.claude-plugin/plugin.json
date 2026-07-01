@@ -1,8 +1,0 @@
-{
-  "name": "avqn-tooling",
-  "description": "Outillage de dev AVQN : embarque le MCP Playwright (qualité visuelle). Pensé pour l’environnement de dev cloud.",
-  "author": {
-    "name": "Manu Bernard"
-  },
-  "license": "UNLICENSED"
-}

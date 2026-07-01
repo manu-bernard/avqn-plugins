@@ -3,7 +3,7 @@
   "owner": {
     "name": "Manu Bernard"
   },
-  "description": "Marketplace unique AVQN : méthodo de dev, connecteurs MCP (business + infra/dev) et outillage.",
+  "description": "Marketplace unique AVQN : méthodo de dev et connecteurs MCP (business + infra/dev).",
   "version": "0.2.0",
   "plugins": [
     {
@@ -23,11 +23,6 @@
       "name": "avqn-infra",
       "source": "./avqn-infra",
       "description": "AVQN Infra — le connecteur MCP infra/dev (infra.avqn.ch) : Coolify, Hetzner, DNS, R2, SSH, backup, monitoring, release, dépôts."
-    },
-    {
-      "name": "avqn-tooling",
-      "source": "./avqn-tooling",
-      "description": "Outillage de dev : embarque le MCP Playwright (qualité visuelle). Pour l’env de dev cloud."
     }
   ]
 }
