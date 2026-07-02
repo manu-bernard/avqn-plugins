@@ -1,4 +1,8 @@
-# avqn-plugins
+# avqn-plugins (dépôt archivé)
+
+> **Déprécié.** Ce contenu est remplacé par la marketplace `manu-bernard/avqn-dev`
+> (`/plugin marketplace add manu-bernard/avqn-dev`) ; les connecteurs MCP (`os.avqn.ch/mcp`,
+> `infra.avqn.ch/mcp`) s'ajoutent désormais par URL directe, sans plugin.
 
 Marketplace des plugins publics **AVQN** pour Claude Code / claude.ai.
 
